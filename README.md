@@ -10,9 +10,9 @@ Welcome to the Roban Systems project, a groundbreaking IoT solution designed to 
 
 Roban Systems aims to enhance the quality of life for disabled people by leveraging IoT technologies. The system utilizes sensors, actuators, and a smart control unit to automate tasks and provide assistance in daily activities, making life easier and more accessible for individuals with disabilities.
 
-![MIT License](1 (1).jpg)
-![MIT License](1 (1).png)
-![MIT License](1 (2).jpg)
+![MIT License](1.jpg)
+![MIT License](2.png)
+![MIT License](3.png)
 
 # SYSTEM OVERVIEW
 
@@ -44,6 +44,8 @@ S.No	Devices
 4.	acoustic sensors	light sensors
 5.	pressure sensors	gas RFID sensors
 6.	humidity sensors	micro flow sensors
+
+![MIT License](https://www.webee.io/uploads/1/1/9/8/119820981/ezgif-com-video-to-gif_3_orig.gif)
 
 ### STANDARD DEVICES
 The desktop, tablet, and cell phone remain integral parts of IoT as the command centre and remotes. The desktop provides the user with the highest level of control over the system and its settings. The tablet provides access to the key features of the system in a way resembling the desktop and also acts as a remote. The cell phone allows some essential settings modification and also provides remote functionality. Other key connected devices include standard network devices like routers and switches.
@@ -261,7 +263,7 @@ The future scope of using the Internet of Things (IoT) for disabled people is va
 6.	Adaptive Learning and Employment: IoT can revolutionize adaptive learning and employment opportunities for disabled individuals. Connected learning platforms can offer personalized educational content and adaptive interfaces to accommodate different learning styles and abilities. IoT-enabled workplace environments can provide assistive technologies, ergonomic adjustments, and real-time feedback systems to support disabled individuals in their professional endeavours.
 As IoT technologies continue to evolve, it is essential to address challenges such as data privacy, security, and affordability. Collaboration between technology developers, disability advocates, and policymakers will be crucial to ensure that IoT solutions are accessible, inclusive, and ethically implemented.
 In conclusion, the future of IoT for disabled people holds immense potential. By leveraging the power of connectivity, IoT can enhance accessibility, independence, and overall quality of life for individuals with disabilities. Continued research, innovation, and collaboration will pave the way for transformative IoT solutions that empower disabled individuals, promote inclusivity, and create a more equitable society.
-
+![MIT License](https://www.boldbusiness.com/wp-content/uploads/2018/05/IoT.gif)
 
 # Getting Started
 
